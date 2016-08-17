@@ -16,7 +16,7 @@ allow the pages to be served on the internet.
 # Installation
 If you have a github account, setup takes roughly 2 minutes and is totally free.
 
-Either use the online installer(TODO in issue #6) or clone this repo into an
+Either use the online installer([TODO in issue #6](https://github.com/StaticWebCMS/core/issues/6)) or clone this repo into an
 existing web server such as apache or nginx.
 
 # Configuration options
